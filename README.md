@@ -1,6 +1,6 @@
 # MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning
 
-This repository contains the official PyTorch implementation of MegaFusion: https://arxiv.org/abs/
+This repository contains the official PyTorch implementation of MegaFusion: https://arxiv.org/abs/2408.11001/
 
 We are in the process of standardizing and gradually open-sourcing our code in the near future, so please stay tuned.
 
@@ -9,7 +9,7 @@ We are in the process of standardizing and gradually open-sourcing our code in t
 </div>
 
 ## Some Information
-[Project Page](https://haoningwu3639.github.io/MegaFusion/)  $\cdot$ [Paper](https://arxiv.org/abs/)(Soon)
+[Project Page](https://haoningwu3639.github.io/MegaFusion/)  $\cdot$ [Paper](https://arxiv.org/abs/2408.11001/)(Soon)
 
 ## Requirements
 - Python >= 3.8 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
@@ -80,8 +80,8 @@ In our project, we use a state-of-the-art open-sourced VLM, [MiniGPT-v2](https:/
 To be updated soon...
 
 ## TODO
-- [ ] Release Paper
-- [ ] Complete Bibtex
+- [x] Release Paper
+- [x] Complete Bibtex
 - [ ] Model Code of SDM-MegaFusion
 - [ ] Inference Code of SDM-MegaFusion
 - [ ] Image Caption Code of MiniGPT-v2
@@ -95,11 +95,11 @@ To be updated soon...
 ## Citation
 If you use this code for your research or project, please cite:
 
-	@inproceedings{wu2024megafusion,
+	@arxiv{wu2024megafusion,
       title     = {MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning}, 
       author    = {Haoning Wu, Shaocheng Shen, Qiang Hu, Xiaoyun Zhang, Ya Zhang, Yanfeng Wang},
       year      = {2024},
-      journal   = {arXiv preprint arXiv:2408.xxxxx},
+      journal   = {arXiv preprint arXiv:2408.11001},
 	}
 
 ## Acknowledgements
