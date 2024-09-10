@@ -11,6 +11,10 @@ We are in the process of standardizing and gradually open-sourcing our code in t
 ## Some Information
 [Project Page](https://haoningwu3639.github.io/MegaFusion/)  $\cdot$ [Paper](https://arxiv.org/abs/2408.11001/)
 
+## News
+- [2024.9.10] A new version of the paper has been updated. Please check out our latest version paper for further technical details, evaluations, and visualizations.
+- [2024.8.20] Our pre-print paper is released on arXiv, we are working on releasing our code and will open-source it shortly.
+
 ## Requirements
 - Python >= 3.8 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 - [PyTorch >= 1.12](https://pytorch.org/)
